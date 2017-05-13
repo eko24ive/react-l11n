@@ -1,0 +1,11 @@
+{
+    "translation": {
+        "sentence": "{{what}} - {{how}}",
+        "great": "прекрасен",
+
+        "object": "объектов",
+        "object_0": "объект",
+        "object_1": "объекта",
+        "object_3": "объектов"
+    }
+}
